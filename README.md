@@ -1,4 +1,4 @@
-# 🇮🇳 India Job Data Analysis
+# 🇮🇳 India Job Data Analysis Using Excel & python 
 
 # Overview
 
@@ -6,15 +6,11 @@ This project involves an in-depth analysis of job market trends in India using a
 
 # Purpose of the Project
 
-To understand current job trends in India.
-
-To identify in-demand job roles, required skills, and experience levels.
-
-To analyze salary distribution across industries and locations.
-
-To support job seekers and HR professionals in decision-making.
-
-To visualize the findings with clear, interactive dashboards.
+1. To understand current job trends in India.
+2. To identify in-demand job roles, required skills, and experience levels.
+3. To analyze salary distribution across industries and locations.
+4. To support job seekers and HR professionals in decision-making.
+5. To visualize the findings with clear, interactive dashboards.
 
 # Dataset Summary
 
@@ -52,41 +48,35 @@ Company Size
 
 # Analysis Performed
 
-Location Analysis: Top cities and states hiring the most.
+**Location Analysis:** Top cities and states hiring the most.
 
-Job Title Frequency: Most in-demand job roles.
+**Job Title Frequency:** Most in-demand job roles.
 
-Skill Analysis: Commonly required technical and soft skills.
+**Skill Analysis:** Commonly required technical and soft skills.
 
-Salary Analysis: Salary trends across roles and industries.
+**Salary Analysis:** Salary trends across roles and industries.
 
-Job Type Distribution: Full-time, part-time, internships, etc.
+**Job Type Distribution:** Full-time, part-time, internships, etc.
 
-Experience Requirements: Most common experience levels.
+**Experience Requirements:** Most common experience levels.
 
-Remote vs Onsite: Trends in job flexibility.
+**Remote vs Onsite:** Trends in job flexibility.
 
-Company Size Impact: Job opportunities by company size.
+**Company Size Impact:** Job opportunities by company size.
 
 # Dashboard Explanation
 
 ![Alt Text](https://github.com/ybalaji123/Indian-job-data/blob/main/Screenshot%202025-05-19%20193509.png)
 
-The interactive dashboard includes:
+**The interactive dashboard includes:**
 
-Job Distribution by LocationVisualizes the number of jobs available in different cities or states.
-
-Top Job TitlesA bar chart or word cloud showing the most frequently occurring job roles.
-
-Skills HeatmapDisplays skills that are most often required for various job titles.
-
-Salary Range DistributionHistogram or box plot showing salary ranges for different sectors or experience levels.
-
-Experience Requirement TrendsPie chart or bar graph displaying the most required experience levels.
-
-Job Type and Mode (Remote/Onsite)Distribution of remote, onsite, hybrid roles and full-time/part-time/internship roles.
-
-Posting & Deadline TrendsTime series analysis of job postings and application deadlines.
+* Job Distribution by LocationVisualizes the number of jobs available in different cities or states.
+* Top Job TitlesA bar chart or word cloud showing the most frequently occurring job roles.
+* Skills HeatmapDisplays skills that are most often required for various job titles.
+* Salary Range DistributionHistogram or box plot showing salary ranges for different sectors or experience levels.
+* Experience Requirement TrendsPie chart or bar graph displaying the most required experience levels.
+* Job Type and Mode (Remote/Onsite)Distribution of remote, onsite, hybrid roles and full-time/part-time/internship roles.
+* Posting & Deadline TrendsTime series analysis of job postings and application deadlines.
 
 # Conclusion
 
