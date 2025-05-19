@@ -70,7 +70,7 @@ Company Size Impact: Job opportunities by company size.
 
 # Dashboard Explanation
 
-![Alt Text](relative/path/to/image.png)
+![Alt Text](https://github.com/ybalaji123/Indian-job-data/blob/main/Screenshot%202025-05-19%20193509.png)
 
 The interactive dashboard includes:
 
