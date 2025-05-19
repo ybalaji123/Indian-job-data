@@ -66,7 +66,7 @@ Company Size
 
 # Dashboard Explanation
 
-![Alt Text](https://github.com/ybalaji123/Indian-job-data/blob/main/Screenshot%202025-05-19%20193509.png)
+![Alt Text](https://github.com/ybalaji123/Indian-job-data/blob/main/Dashboard.png)
 
 **The interactive dashboard includes:**
 
